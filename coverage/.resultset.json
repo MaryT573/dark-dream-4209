@@ -242,6 +242,8 @@
         "lines": [
           1,
           null,
+          null,
+          1,
           null
         ]
       },
@@ -268,8 +270,23 @@
           1,
           null
         ]
+      },
+      "/Users/maryturpin/turing/2Module/ICs/dark-dream-4209/app/controllers/recipes_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/maryturpin/turing/2Module/ICs/dark-dream-4209/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1658023141
+    "timestamp": 1658023785
   }
 }
