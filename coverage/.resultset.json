@@ -253,6 +253,27 @@
           null
         ]
       },
+      "/Users/maryturpin/turing/2Module/ICs/dark-dream-4209/spec/features/recipes/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
       "/Users/maryturpin/turing/2Module/ICs/dark-dream-4209/app/models/recipe.rb": {
         "lines": [
           1,
@@ -285,8 +306,26 @@
           1,
           null
         ]
+      },
+      "/Users/maryturpin/turing/2Module/ICs/dark-dream-4209/app/models/ingredient.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/maryturpin/turing/2Module/ICs/dark-dream-4209/app/models/recipe_ingredient.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1658023785
+    "timestamp": 1658024182
   }
 }
