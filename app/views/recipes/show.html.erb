@@ -1,0 +1,4 @@
+<h1> Ingredients for <%= @recipe.name %></h1>
+<% @ingredients.each do |ingredient| %>
+  <p> Ingredient Required: <%= ingredient.name %> </p>
+<% end %>
